@@ -1,0 +1,5 @@
+Utilities\BaseClass.class
+Utilities\ExtentReports.class
+PageObjects\BasePage.class
+PageObjects\Shopping.class
+PageObjects\LoginPage.class
